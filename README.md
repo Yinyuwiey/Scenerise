@@ -1,5 +1,5 @@
 # 景亦图标包（Scenerise Icon Package）
-<img src="https://github.com/Yinyuwiey/Scenerise/assets/61231270/c7da2bf9-ab18-44dc-b052-cba475bfa855" width="144" height="144" alt="软件图标"/><br/>
+<img src="https://github.com/Yinyuwiey/Scenerise/assets/61231270/5898c193-d111-4092-9e17-65f667f42eff" width="144" height="144" alt="软件图标"/><br/>
 
 以思为尺，以心作度，景然亦悦。 作者：Yinyuwiey（酷安），饮雨wiey（哔哩哔哩）
 
