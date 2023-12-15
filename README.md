@@ -1,4 +1,6 @@
 # 景亦图标包（Scenerise Icon Package）
+![app_splash_screen_picture png](https://github.com/Yinyuwiey/Scenerise/assets/61231270/a8ee0fa7-1cf2-4515-98e1-4a7b333fa22c)
+
 以思为尺，以心作度，景然亦悦。 作者：Yinyuwiey（酷安），饮雨wiey（哔哩哔哩）
 
 酷安评分9.2分，1.9万+下载，感谢各位的认可。
